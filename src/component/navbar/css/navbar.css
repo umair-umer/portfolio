@@ -1,0 +1,10 @@
+@media (min-width: 992px){
+.navbar-expand-lg .navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    justify-content: center;
+}
+}
+.bg-light {
+    background-color: darkcyan!important;
+}
